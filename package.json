@@ -1,0 +1,16 @@
+{
+  "name": "new-tab-v-fernando",
+  "version": "1.0.0",
+  "description": "Uma versão de aluno do curso do felipe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
