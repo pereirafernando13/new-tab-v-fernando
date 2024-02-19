@@ -3,7 +3,3 @@ function Home() {
 }
 
 export default Home;
-
-function test1() {
-  console.log("indentacao");
-}
